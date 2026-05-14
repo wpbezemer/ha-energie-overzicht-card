@@ -10,7 +10,7 @@ Home Assistant Lovelace custom card voor een **volledig energie-overzicht**. Com
 
 ## Schermafbeelding
 
-> *(voeg hier een screenshot toe van je dashboard)*
+> *<img src="/ha-energie-overzicht-card-preview.jpeg" width="500"/>*
 
 ---
 
