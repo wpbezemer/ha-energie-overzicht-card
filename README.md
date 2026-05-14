@@ -52,7 +52,7 @@ De card berekent automatisch de volgende waarden op basis van drie sensoren:
 
 1. Ga in Home Assistant naar **HACS → Frontend**
 2. Klik op **⋮ → Aangepaste repositories**
-3. Voeg toe: `https://github.com/jouwgebruikersnaam/ha-energie-overzicht-card` — categorie: **Lovelace**
+3. Voeg toe: `https://github.com/wpbezemer/ha-energie-overzicht-card` — categorie: **Lovelace**
 4. Zoek op **Energie Overzicht** en klik op **Downloaden**
 5. Herlaad de browser (**Ctrl+Shift+R**)
 
